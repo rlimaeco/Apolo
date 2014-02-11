@@ -1,4 +1,4 @@
 Apolo
 =====
 
-Meu primeiro app python
+Gerenciador de músicas em python
