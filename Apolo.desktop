@@ -1,0 +1,7 @@
+[Desktop Entry]
+Name=Apolo
+Comment=Deus protetor da música
+Icon=/home/rlima/scripts/Extra/play.png
+Exec=/usr/bin/apolo
+Terminal=false
+Type=Application

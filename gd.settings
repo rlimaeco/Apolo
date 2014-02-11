@@ -1,0 +1,9 @@
+#This is the config of groovedown.
+#Tue Feb 11 01:04:53 BRST 2014
+autologin=false
+loglevel=3
+dlcount=5
+dlpath=/home/rlima/GrooveDown_Downloads/
+first=true
+lang=en
+pathpattern=< Artist >< / >< Title >
